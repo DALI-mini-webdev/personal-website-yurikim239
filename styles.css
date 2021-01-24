@@ -1,1 +1,22 @@
-
+.red-text{
+    color: #883229;
+ }
+ #orange-bg{
+    background-color: #AE8C6C;
+ }
+ #yellow-bg{
+    background-color: #c2a75c;
+ }
+ #green-bg{
+    background-color: rgba(53, 119, 97, 0.815);
+ }
+ #blue-bg{
+    background-color: rgba(74, 100, 148, 0.815);
+ }
+ body{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    /* these are defaults but you can import fonts from google for free @fonts.google.com! */
+ }
+ body{background-image: url("pixelcloud.png")
+}
+ 
